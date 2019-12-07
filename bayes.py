@@ -1,3 +1,6 @@
+# Much of this code is repurposed from CS510 HW2. Most of the coding work for this project
+# went into the data collection. 
+
 import math, os, pickle, re, numpy as np
 
 class Bayes_Classifier:
